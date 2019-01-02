@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f5dc;
+}
+#main {
+    padding: 30px;
+}
+.trnsmit {
+    padding-top: 10px;
+    float: right;
+}
+.uk-table-striped {
+    width: 100%;
+}
